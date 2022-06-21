@@ -1,4 +1,4 @@
-Repository archived. Please use: [https://github.com/Orchesty/orchesty-tutorial](https://github.com/Orchesty/orchesty-skeleton)
+Repository archived. Please use: [https://github.com/Orchesty/orchesty-skeleton](https://github.com/Orchesty/orchesty-skeleton)
 
 # Pipes Skeleton
 
