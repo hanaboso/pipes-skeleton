@@ -1,3 +1,5 @@
+Repository archived. Please use: [https://github.com/Orchesty/orchesty-tutorial](https://github.com/Orchesty/orchesty-skeleton)
+
 # Pipes Skeleton
 
 ## How to install
